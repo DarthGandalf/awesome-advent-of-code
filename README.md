@@ -465,7 +465,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [NimVek/advent-of-code](https://github.com/NimVek/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--01-brightgreen)
 * [SpiderScripts/adventofcode](https://github.com/SpiderScripts/adventofcode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--04-brightgreen)
 * [ndunnett/aoc](https://github.com/ndunnett/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--04-brightgreen)
-* [maread99/aoc](https://github.com/maread99/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--04-brightgreen)
+* [maread99/aoc](https://github.com/maread99/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 * [r0f1/adventofcode2024](https://github.com/r0f1/adventofcode2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 
 #### R
@@ -582,7 +582,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Zig.*
 
-* [p88h/aoc2024](https://github.com/p88h/aoc2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--04-brightgreen)
+* [p88h/aoc2024](https://github.com/p88h/aoc2024) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--05-brightgreen)
 
 
 #### Zsh
